@@ -46,7 +46,7 @@ A clean, responsive, and reusable HTML email template built with internal and in
     * Or manually via any HTML email tool
 
 ## 🔗 Live Demo
-  [View on CodePen](https://codepen.io/mr-oneill/pen/xbbrRjw)
+  [View on CodePen](https://codepen.io/mr-oneill/pen/LEELbWp)
 
 ## 🧰 Built With
 
